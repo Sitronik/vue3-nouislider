@@ -67,5 +67,5 @@ export default {
 </script>
 
 <style scoped lang="scss">
-  @import '~nouislider/distribute/nouislider.min.css';
+  @import '~nouislider/dist/nouislider.min.css';
 </style>
